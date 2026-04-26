@@ -16,7 +16,7 @@
 
 ---
 
-## About Me
+<h2>About Me</h2>
 
 ```ts
 const anandha = {
@@ -32,7 +32,7 @@ const anandha = {
 
 ---
 
-## Tech Stack
+<h2>Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,express,mongodb,solidity,git,github,vscode,linux&perline=8" />
@@ -49,7 +49,7 @@ const anandha = {
 
 ---
 
-## GitHub Stats
+<h2>GitHub Stats</h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anandha-scraper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&icon_color=00FF41&title_color=00FF41&hide=issues,contribs&hide_rank=true" />
@@ -62,13 +62,13 @@ const anandha = {
 
 ---
 
-## Contribution Activity
+<h2>Contribution Activity</h2>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anandha-scraper&theme=tokyo-night&bg_color=0D1117&color=00FF41&line=00D4FF&point=ffffff&hide_border=true&area=true&area_color=003B00" />
 
 ---
 
-## Contribution Snake
+<h2>Contribution Snake</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"

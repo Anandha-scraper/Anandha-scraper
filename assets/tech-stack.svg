@@ -1,0 +1,152 @@
+<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0D1117; }
+      .label {
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-weight: 700;
+        font-size: 12px;
+      }
+    </style>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="80" class="bg"/>
+
+  <!-- JavaScript -->
+  <g transform="translate(30,12)">
+    <rect width="72" height="24" rx="4" fill="#F7DF1E20" stroke="#F7DF1E" stroke-width="1"/>
+    <text x="36" y="16" class="label" fill="#F7DF1E" text-anchor="middle" filter="url(#glow)">JavaScript</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0s" fill="freeze"/>
+  </g>
+
+  <!-- TypeScript -->
+  <g transform="translate(115,12)">
+    <rect width="72" height="24" rx="4" fill="#3178C620" stroke="#3178C6" stroke-width="1"/>
+    <text x="36" y="16" class="label" fill="#3178C6" text-anchor="middle" filter="url(#glow)">TypeScript</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.15s" fill="freeze"/>
+  </g>
+
+  <!-- React -->
+  <g transform="translate(200,12)">
+    <rect width="62" height="24" rx="4" fill="#61DAFB20" stroke="#61DAFB" stroke-width="1"/>
+    <text x="31" y="16" class="label" fill="#61DAFB" text-anchor="middle" filter="url(#glow)">React</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.3s" fill="freeze"/>
+  </g>
+
+  <!-- Next.js -->
+  <g transform="translate(275,12)">
+    <rect width="62" height="24" rx="4" fill="#ffffff20" stroke="#ffffff88" stroke-width="1"/>
+    <text x="31" y="16" class="label" fill="#ffffff" text-anchor="middle" filter="url(#glow)">Next.js</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.45s" fill="freeze"/>
+  </g>
+
+  <!-- Node.js -->
+  <g transform="translate(350,12)">
+    <rect width="62" height="24" rx="4" fill="#3C873A20" stroke="#3C873A" stroke-width="1"/>
+    <text x="31" y="16" class="label" fill="#3C873A" text-anchor="middle" filter="url(#glow)">Node.js</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.6s" fill="freeze"/>
+  </g>
+
+  <!-- MongoDB -->
+  <g transform="translate(425,12)">
+    <rect width="70" height="24" rx="4" fill="#47A24820" stroke="#47A248" stroke-width="1"/>
+    <text x="35" y="16" class="label" fill="#47A248" text-anchor="middle" filter="url(#glow)">MongoDB</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.75s" fill="freeze"/>
+  </g>
+
+  <!-- Solidity -->
+  <g transform="translate(508,12)">
+    <rect width="64" height="24" rx="4" fill="#363636" stroke="#8888ff" stroke-width="1"/>
+    <text x="32" y="16" class="label" fill="#aaaaff" text-anchor="middle" filter="url(#glow)">Solidity</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.9s" fill="freeze"/>
+  </g>
+
+  <!-- LangChain -->
+  <g transform="translate(585,12)">
+    <rect width="76" height="24" rx="4" fill="#1C3C3C" stroke="#00FF41" stroke-width="1"/>
+    <text x="38" y="16" class="label" fill="#00FF41" text-anchor="middle" filter="url(#glow)">LangChain</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.05s" fill="freeze"/>
+  </g>
+
+  <!-- OpenAI -->
+  <g transform="translate(674,12)">
+    <rect width="62" height="24" rx="4" fill="#41299120" stroke="#a78bfa" stroke-width="1"/>
+    <text x="31" y="16" class="label" fill="#a78bfa" text-anchor="middle" filter="url(#glow)">OpenAI</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.2s" fill="freeze"/>
+  </g>
+
+  <!-- Web3 -->
+  <g transform="translate(749,12)">
+    <rect width="62" height="24" rx="4" fill="#F1682220" stroke="#F16822" stroke-width="1"/>
+    <text x="31" y="16" class="label" fill="#F16822" text-anchor="middle" filter="url(#glow)">Web3</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.35s" fill="freeze"/>
+  </g>
+
+  <!-- Linux -->
+  <g transform="translate(824,12)">
+    <rect width="52" height="24" rx="4" fill="#FCC62420" stroke="#FCC624" stroke-width="1"/>
+    <text x="26" y="16" class="label" fill="#FCC624" text-anchor="middle" filter="url(#glow)">Linux</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.5s" fill="freeze"/>
+  </g>
+
+  <!-- Row 2 -->
+  <!-- Tailwind -->
+  <g transform="translate(30,48)">
+    <rect width="76" height="24" rx="4" fill="#06B6D420" stroke="#06B6D4" stroke-width="1"/>
+    <text x="38" y="16" class="label" fill="#06B6D4" text-anchor="middle" filter="url(#glow)">Tailwind CSS</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.65s" fill="freeze"/>
+  </g>
+
+  <!-- Express -->
+  <g transform="translate(119,48)">
+    <rect width="64" height="24" rx="4" fill="#ffffff10" stroke="#ffffff66" stroke-width="1"/>
+    <text x="32" y="16" class="label" fill="#aaaaaa" text-anchor="middle" filter="url(#glow)">Express.js</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.8s" fill="freeze"/>
+  </g>
+
+  <!-- Git -->
+  <g transform="translate(196,48)">
+    <rect width="42" height="24" rx="4" fill="#F0503220" stroke="#F05032" stroke-width="1"/>
+    <text x="21" y="16" class="label" fill="#F05032" text-anchor="middle" filter="url(#glow)">Git</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.95s" fill="freeze"/>
+  </g>
+
+  <!-- VSCode -->
+  <g transform="translate(251,48)">
+    <rect width="62" height="24" rx="4" fill="#007ACC20" stroke="#007ACC" stroke-width="1"/>
+    <text x="31" y="16" class="label" fill="#007ACC" text-anchor="middle" filter="url(#glow)">VS Code</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.1s" fill="freeze"/>
+  </g>
+
+  <!-- Hyprland -->
+  <g transform="translate(326,48)">
+    <rect width="72" height="24" rx="4" fill="#00D4FF20" stroke="#00D4FF" stroke-width="1"/>
+    <text x="36" y="16" class="label" fill="#00D4FF" text-anchor="middle" filter="url(#glow)">Hyprland</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.25s" fill="freeze"/>
+  </g>
+
+  <!-- Vector DBs -->
+  <g transform="translate(411,48)">
+    <rect width="80" height="24" rx="4" fill="#00FF4120" stroke="#00FF41" stroke-width="1"/>
+    <text x="40" y="16" class="label" fill="#00FF41" text-anchor="middle" filter="url(#glow)">Vector DBs</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.4s" fill="freeze"/>
+  </g>
+
+  <!-- LLMs -->
+  <g transform="translate(504,48)">
+    <rect width="48" height="24" rx="4" fill="#a78bfa20" stroke="#a78bfa" stroke-width="1"/>
+    <text x="24" y="16" class="label" fill="#a78bfa" text-anchor="middle" filter="url(#glow)">LLMs</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.55s" fill="freeze"/>
+  </g>
+
+  <!-- SaaS -->
+  <g transform="translate(565,48)">
+    <rect width="46" height="24" rx="4" fill="#F7DF1E20" stroke="#F7DF1E88" stroke-width="1"/>
+    <text x="23" y="16" class="label" fill="#F7DF1E" text-anchor="middle" filter="url(#glow)">SaaS</text>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.7s" fill="freeze"/>
+  </g>
+</svg>
