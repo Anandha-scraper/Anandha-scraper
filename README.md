@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anandha-scraper&label=Profile%20Views&color=00FF41&style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/followers/Anandha-scraper?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0D1117" />
   <a href="https://www.linkedin.com/in/anandha-kumaran">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -17,7 +16,7 @@
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=js" width="28" align="center"/> &nbsp; About Me
+## About Me
 
 ```ts
 const anandha = {
@@ -33,7 +32,7 @@ const anandha = {
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=vscode" width="28" align="center"/> &nbsp; Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,express,mongodb,solidity,git,github,vscode,linux&perline=8" />
@@ -50,7 +49,7 @@ const anandha = {
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=github" width="28" align="center"/> &nbsp; GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anandha-scraper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&icon_color=00FF41&title_color=00FF41&hide=issues,contribs&hide_rank=true" />
@@ -63,15 +62,14 @@ const anandha = {
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=git" width="28" align="center"/> &nbsp; Contribution Activity
+## Contribution Activity
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anandha-scraper&theme=tokyo-night&bg_color=0D1117&color=00FF41&line=00D4FF&point=ffffff&hide_border=true&area=true&area_color=003B00" />
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=github" width="28" align="center"/> &nbsp; Contribution Snake
+## Contribution Snake
 
-<!-- Growing snake (custom, updates daily via growing-snake.yml) -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/Anandha-scraper/Anandha-scraper/output/growing-snake.svg" />
