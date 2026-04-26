@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/Anandha-scraper">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=750&lines=%3E_+whoami+%3A%3A+Anandha+kumaran+M+S;%3E_+roles+%3A%3A+Full+Stack+Dev+%7C+Web3+%7C+RAG;%3E_+building+%3A%3A+AI-Powered+%26+Blockchain+Apps;%3E_+stack+%3A%3A+JavaScript+%7C+TypeScript+%7C+Node.js;%3E_+focus+%3A%3A+LLMs+%7C+Vector+DBs+%7C+Smart+Contracts" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;pause=1000&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=750&amp;lines=%3E_%20whoami%20%3A%3A%20Anandha%20kumaran%20M%20S;%3E_%20roles%20%3A%3A%20Full%20Stack%20Dev%20%7C%20Web3%20%7C%20RAG;%3E_%20building%20%3A%3A%20AI-Powered%20%26%20Blockchain%20Apps;%3E_%20stack%20%3A%3A%20JavaScript%20%7C%20TypeScript%20%7C%20Node.js;%3E_%20focus%20%3A%3A%20LLMs%20%7C%20Vector%20DBs%20%7C%20Smart%20Contracts" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anandha-scraper&label=Profile%20Views&color=00FF41&style=for-the-badge&labelColor=0D1117" />
-  <a href="https://www.linkedin.com/in/anandha-kumaran">
+  <a href="https://www.linkedin.com/in/anandhakumaranms/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Salem%2C%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00FF41" />
