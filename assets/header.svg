@@ -3,7 +3,6 @@
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&amp;display=swap');
       .bg { fill: #0D1117; }
-      .grid { stroke: #00FF4110; stroke-width: 0.5; }
       .name {
         font-family: 'Fira Code', 'Courier New', monospace;
         font-weight: 700;
@@ -11,12 +10,11 @@
         fill: #00FF41;
         filter: drop-shadow(0 0 8px #00FF4188);
       }
-      .sub {
+      .location {
         font-family: 'Fira Code', 'Courier New', monospace;
         font-weight: 400;
-        font-size: 15px;
-        fill: #00D4FF;
-        filter: drop-shadow(0 0 4px #00D4FF88);
+        font-size: 14px;
+        fill: #888888;
       }
       .bar {
         fill: none;
@@ -29,11 +27,9 @@
         filter: drop-shadow(0 0 6px #00FF41);
       }
     </style>
-    <!-- scanline pattern -->
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00FF4108" stroke-width="0.5"/>
     </pattern>
-    <!-- glow filter -->
     <filter id="glow">
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
@@ -44,39 +40,39 @@
   <rect width="900" height="140" class="bg"/>
   <rect width="900" height="140" fill="url(#grid)" opacity="0.6"/>
 
-  <!-- Top border line with animation -->
+  <!-- Top border -->
   <line x1="0" y1="2" x2="900" y2="2" class="bar">
     <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
   </line>
-  <!-- Bottom border line with animation -->
+  <!-- Bottom border -->
   <line x1="0" y1="138" x2="900" y2="138" class="bar">
     <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" begin="1s"/>
   </line>
 
-  <!-- Terminal prompt prefix -->
-  <text x="36" y="72" font-family="'Fira Code', monospace" font-size="20" fill="#00FF41" opacity="0.7" filter="url(#glow)">❯</text>
+  <!-- Terminal prompt -->
+  <text x="36" y="68" font-family="'Fira Code', monospace" font-size="20" fill="#00FF41" opacity="0.7" filter="url(#glow)">❯</text>
 
   <!-- Main name -->
-  <text x="64" y="72" class="name" filter="url(#glow)">
+  <text x="64" y="68" class="name" filter="url(#glow)">
     Anandha kumaran M S
     <animate attributeName="opacity" values="0;0;1" dur="0.8s" fill="freeze"/>
   </text>
 
   <!-- Blinking cursor after name -->
-  <rect x="530" y="50" width="3" height="28" class="cursor">
+  <rect x="530" y="46" width="3" height="28" class="cursor">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Sub-title roles -->
-  <text x="64" y="102" class="sub">
-    Full Stack Dev  ·  Web3 Builder  ·  RAG / AI Apps  ·  Salem, India
+  <!-- Location line -->
+  <text x="64" y="98" class="location">
+    &#128205; Salem, Tamil Nadu, India
     <animate attributeName="opacity" values="0;0;0;1" dur="1.2s" fill="freeze"/>
   </text>
 
-  <!-- Left decorative bracket -->
-  <text x="8" y="82" font-family="monospace" font-size="60" fill="#00FF4118">&#123;</text>
-  <!-- Right decorative bracket -->
-  <text x="868" y="82" font-family="monospace" font-size="60" fill="#00FF4118">&#125;</text>
+  <!-- Left bracket -->
+  <text x="8" y="88" font-family="monospace" font-size="70" fill="#00FF4115">&#123;</text>
+  <!-- Right bracket -->
+  <text x="862" y="88" font-family="monospace" font-size="70" fill="#00FF4115">&#125;</text>
 
   <!-- Corner dots -->
   <circle cx="8" cy="8" r="3" fill="#00FF41" opacity="0.5"/>

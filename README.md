@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Anandha-scraper">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;pause=1000&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=750&amp;lines=%3E_%20whoami%20%3A%3A%20Anandha%20kumaran%20M%20S;%3E_%20roles%20%3A%3A%20Full%20Stack%20Dev%20%7C%20Web3%20Builder%20%7C%20RAG%20%2F%20AI%20Apps;%3E_%20focus%20%3A%3A%20CRM%20%7C%20API%20Integration%20%7C%20Deployment%20Network%20%7C%20Mobile%20Application" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;pause=1000&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=750&amp;lines=%3E_%20whoami%20%3A%3A%20Anandha%20kumaran%20M%20S;%3E_%20roles%20%3A%3A%20Full%20Stack%20Dev%20%7C%20Web3%20Builder%20%7C%20RAG;%3E_%20focus%20%3A%3A%20CRM%20%7C%20API%20Integration;%3E_%20focus%20%3A%3A%20Deployment%20Network%20%7C%20Mobile%20App" alt="Typing SVG" />
   </a>
 </p>
 
