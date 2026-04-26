@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7B2FFF&height=200&section=header&text=Anandha%20kumaran%20M%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20JS%20%2F%20TS%20%7C%20Salem&descSize=20&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7B2FFF&height=200&section=header&text=Anandha%20kumaran%20M%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Web3%20%7C%20RAG%20%7C%20AI%20Apps&descSize=20&descAlignY=55" />
 
 <p align="center">
   <a href="https://github.com/Anandha-scraper">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Hey+There!+%F0%9F%91%8B+I'm+Anandha;Full+Stack+Web+Developer+%F0%9F%9A%80;Building+Scalable+%26+Energetic+Apps+%E2%9A%A1;JavaScript+%7C+TypeScript+%7C+Node.js+Enthusiast;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Hey+There!+%F0%9F%91%8B+I'm+Anandha;Full+Stack+Dev+%7C+Web3+%7C+RAG;Building+AI-Powered+%26+Blockchain+Apps+%E2%9A%A1;JavaScript+%7C+TypeScript+%7C+Node.js;LLMs+%7C+Vector+DBs+%7C+Smart+Contracts" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,8 +23,8 @@
 const anandha = {
   name:      "Anandha kumaran M S",
   location:  "Salem, Tamil Nadu 🇮🇳",
-  role:      "Full Stack Developer",
-  focus:     ["Web Apps", "Blockchain", "SaaS Tools"],
+  roles:     ["Full Stack Dev", "Web3 Builder", "RAG / AI Apps"],
+  focus:     ["LLMs", "Vector DBs", "Smart Contracts", "SaaS"],
   stack:     ["JavaScript", "TypeScript", "React", "Node.js"],
   funFact:   "I rice my Linux setup harder than I sleep 🐧",
   openTo:    "Collaborations, freelance & open source ✨",
@@ -54,6 +54,13 @@ const anandha = {
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+**Web3 & AI**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 **Tools & Environment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -67,20 +74,12 @@ const anandha = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anandha-scraper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&icon_color=00D4FF&title_color=00D4FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anandha-scraper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&icon_color=00D4FF&title_color=00D4FF&hide=issues,contribs" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Anandha-scraper&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=7B2FFF&currStreakLabel=00D4FF" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandha-scraper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&langs_count=8" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anandha-scraper&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </p>
 
 ---
@@ -91,27 +90,6 @@ const anandha = {
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Anandha-scraper/Techub">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anandha-scraper&repo=Techub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FFF" />
-  </a>
-  <a href="https://github.com/Anandha-scraper/SPOT-Q">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anandha-scraper&repo=SPOT-Q&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FFF" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Anandha-scraper/HarvestChain">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anandha-scraper&repo=HarvestChain&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FFF" />
-  </a>
-  <a href="https://github.com/Anandha-scraper/Skyloom">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anandha-scraper&repo=Skyloom&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FFF" />
-  </a>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
@@ -119,26 +97,5 @@ const anandha = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anandha-scraper/Anandha-scraper/output/github-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Anandha-scraper/Anandha-scraper/output/github-snake.svg" />
 </picture>
-
----
-
-## 💬 Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anandha-kumaran">
-    <img src="https://img.shields.io/badge/LinkedIn-Anandha%20kumaran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Anandha-scraper">
-    <img src="https://img.shields.io/badge/GitHub-Anandha--scraper-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,100:00D4FF&height=120&section=footer" />
